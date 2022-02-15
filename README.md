@@ -1,16 +1,33 @@
-### Hi there 👋
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-<!--
-**elishitas/elishitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋 Soy Eli
 
-Here are some ideas to get you started:
+###  Voy a ser Solidity developer algún día. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy estudiando y trabajando con: **Golang**
+
+🕵 Diferentes lenguajes y herramientas que utilizo frecuentemente:
+* HTML
+* CSS
+* JavaScript 
+* React
+* Golang
+
+
+🖤 Además, doy clases a **mini programadoras** sobre algunas tecnologías que estuve aprendiendo.
+
+🌱 Hoy en día una de mis pasiones es la lectura de blockchain, DeFi, DAOs, Bitcoin, la Web3.
+
+👩🏻 Entre mis hobbies se encuentran: enseñar, rollear, mirar The Officce y leer biografía de personas que cambiaron su vida.
+ 
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
+
+## 🖤 Get in touch: 
+* ✨ Twitter: https://twitter.com/ArashaElisha
+* ✨ Instagram: https://www.instagram.com/elishitas/
+
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
