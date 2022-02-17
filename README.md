@@ -6,9 +6,11 @@
 
 Actualmente estoy estudiando y trabajando con: **Golang**
 
-🕵 Diferentes lenguajes y herramientas que utilizo frecuentemente:
+🕵 Mi stack actual:
 * HTML
 * CSS
+* SASS
+* Tailwind
 * JavaScript 
 * React
 * Golang
