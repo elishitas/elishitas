@@ -2,7 +2,6 @@
 
 ### Hi 👋 Mi nombre es Eli
 
-###  Voy a ser Solidity developer algún día. 
 
 Actualmente estoy estudiando y trabajando con: **Golang**
 
@@ -13,7 +12,7 @@ Actualmente estoy estudiando y trabajando con: **Golang**
 * Tailwind
 * JavaScript 
 * React
-* Golang
+* Golang -Aprendiendo-
 
 
 🖤 Además, doy clases a **mini programadoras** sobre algunas tecnologías que estuve aprendiendo.
