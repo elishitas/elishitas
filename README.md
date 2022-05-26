@@ -12,6 +12,7 @@ Actualmente estoy estudiando y trabajando con: **Golang**
 * Tailwind
 * JavaScript 
 * React
+* Angular
 * Golang -Aprendiendo-
 
 
