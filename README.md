@@ -27,6 +27,7 @@ Actualmente estoy estudiando y trabajando con: **Golang**
 
 
 ## 🖤 Get in touch: 
+* ✨ LinkedIn: https://www.linkedin.com/in/arayamariaelisa/
 * ✨ Twitter: https://twitter.com/ArashaElisha
 * ✨ Instagram: https://www.instagram.com/elishitas/
 
