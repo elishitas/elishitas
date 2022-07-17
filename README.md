@@ -3,9 +3,11 @@
 ### Hi 👋 Mi nombre es Eli
 
 
-Actualmente estoy estudiando y trabajando con: **Golang**
+Actualmente estoy estudiando y trabajando como backend: **Golang**
+Anteriormente trabaje como frontend en varios proyectos.
+Muchos años, años pasados, trabaje como coordinadora de equipos en el área de salud especialmente en urgencias.
 
-🕵 Mi stack actual:
+🕵 Mi stack actual en tecnología:
 * HTML
 * CSS
 * SASS
@@ -16,7 +18,7 @@ Actualmente estoy estudiando y trabajando con: **Golang**
 * Golang -Aprendiendo-
 
 
- Además doy clases a **mini programadoras** en el club de [Chicas Programadoras](http://www.chicasprogramadoras.club/) sobre Diseño Web, HTML, CSS, Git y Lógica.
+Además doy clases a **mini programadoras** en el club de [Chicas Programadoras](http://www.chicasprogramadoras.club/) sobre Diseño Web, HTML, CSS, Git y Lógica.
  
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
