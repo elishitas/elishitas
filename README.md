@@ -3,7 +3,7 @@
 ### Hi 👋 Mi nombre es Eli
 
 
-+ Actualmente estoy estudiando y trabajando como backend: **Golang**
++ Actualmente estoy estudiando y trabajando como backend developer utilizando el lenguaje de **Go**
 + Anteriormente trabaje como frontend en varios proyectos.
 + Muchos años, años pasados, trabaje como coordinadora de equipos en el área de salud especialmente en urgencias.
 
@@ -13,9 +13,13 @@
 * SASS
 * Tailwind
 * JavaScript 
+* Typescript
 * React
 * Angular
-* Golang -Aprendiendo-
+* SQL
+* Insomnia
+* Postman
+* Golang 
 
 
 Además doy clases a **mini programadoras** en el club de [Chicas Programadoras](http://www.chicasprogramadoras.club/) sobre Diseño Web, HTML, CSS, Git y Lógica.
