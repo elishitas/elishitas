@@ -3,9 +3,9 @@
 ### Hi 👋 Mi nombre es Eli
 
 
-Actualmente estoy estudiando y trabajando como backend: **Golang**
-Anteriormente trabaje como frontend en varios proyectos.
-Muchos años, años pasados, trabaje como coordinadora de equipos en el área de salud especialmente en urgencias.
++ Actualmente estoy estudiando y trabajando como backend: **Golang**
++ Anteriormente trabaje como frontend en varios proyectos.
++ Muchos años, años pasados, trabaje como coordinadora de equipos en el área de salud especialmente en urgencias.
 
 🕵 Mi stack actual en tecnología:
 * HTML
