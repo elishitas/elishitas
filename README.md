@@ -3,7 +3,7 @@
 ### Hi 👋 Mi nombre es Eli
 
 
-+ Actualmente estoy estudiando y trabajando como backend developer utilizando el lenguaje de **Go**
++ Actualmente estoy estudiando y trabajando como developer utilizando el lenguaje de **Go**
 + Anteriormente trabaje como frontend en varios proyectos.
 + Muchos años, años pasados, trabaje como coordinadora de equipos en el área de salud especialmente en urgencias.
 
